@@ -8,7 +8,7 @@ A full-featured task management web application built with Python, Flask, and SQ
 [![Flask](https://img.shields.io/badge/Flask-2.x-black.svg)](https://flask.palletsprojects.com/)
 [![SQLite](https://img.shields.io/badge/Database-SQLite-07405e.svg)](https://www.sqlite.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Issues](https://img.shields.io/github/issues/adhvaith267/flask-crud-website)](https://github.com/adhvaith267/flask-crud-website/issues)
+[![Issues](https://img.shields.io/github/issues/adhvaith267/task-manager-app)](https://github.com/adhvaith267/task-manager-app/issues)
 
 </div>
 
