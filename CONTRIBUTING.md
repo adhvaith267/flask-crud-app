@@ -21,8 +21,8 @@ Be respectful and constructive. This project welcomes contributors of all experi
 1. Fork the repository on GitHub.
 2. Clone your fork locally:
    ```bash
-   git clone https://github.com/<your-username>/flask-crud-website.git
-   cd flask-crud-website
+   git clone https://github.com/<your-username>/flask-crud-app.git
+   cd flask-crud-app
    ```
 3. Create a virtual environment and install dependencies:
    ```bash
