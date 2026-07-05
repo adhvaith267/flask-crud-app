@@ -21,8 +21,8 @@ Be respectful and constructive. This project welcomes contributors of all experi
 1. Fork the repository on GitHub.
 2. Clone your fork locally:
    ```bash
-   git clone https://github.com/adhvaith267/flask-crud-app.git
-   cd flask-crud-app
+   git clone https://github.com/adhvaith267/task-manager-app.git
+   cd task-manager-app
    ```
 3. Create a virtual environment and install dependencies:
    ```bash
