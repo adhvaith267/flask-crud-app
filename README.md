@@ -61,8 +61,8 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/adhvaith267/flask-crud-website.git
-cd flask-crud-website
+git clone https://github.com/adhvaith267/flask-crud-app.git
+cd flask-crud-app
 ```
 
 ### 2. Create a virtual environment (recommended)
