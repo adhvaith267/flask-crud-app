@@ -9,7 +9,6 @@ A full-featured task management web application built with Python, Flask, and SQ
 [![SQLite](https://img.shields.io/badge/Database-SQLite-07405e.svg)](https://www.sqlite.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Issues](https://img.shields.io/github/issues/adhvaith267/flask-crud-website)](https://github.com/adhvaith267/flask-crud-website/issues)
-[![Stars](https://img.shields.io/github/stars/adhvaith267/flask-crud-website)](https://github.com/adhvaith267/flask-crud-website/stargazers)
 
 </div>
 
