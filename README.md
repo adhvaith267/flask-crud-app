@@ -24,8 +24,6 @@ A full-featured task management web application built with Python, Flask, and SQ
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
